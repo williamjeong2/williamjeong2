@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjeong2)](https://github.com/williamjeong2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamjeong2&layout=compact)](https://github.com/williamjeong2/github-readme-stats)
 
 
 
