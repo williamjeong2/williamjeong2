@@ -10,6 +10,9 @@
 
 </div>
 <br>
+<br>
+<br>
+<br>
 <div align="center">
  ⚡️ Interests
  <li>Bioinformatics</li>
