@@ -9,11 +9,12 @@
  
 
 </div>
-
-⚡️ Interests
-- Bioinformatics
-- Deep Learning
-
+<br>
+<div align="center">
+ ⚡️ Interests
+ <li>Bioinformatics</li>
+ <li>Deep Learning</li>
+</div>
 
 <!--
 **williamjeong2/williamjeong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
